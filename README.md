@@ -41,5 +41,5 @@ Aprendiendo paso a paso, equivocándome y corrigiendo... porque así se construy
 
 ## 🌐 Contacto
 
-- GitHub: [github.com/TU_USUARIO](https://github.com/jruizca9)
+- GitHub: [github.com/jruizca9](https://github.com/jruizca9)
 - LinkedIn: [Tu perfil de LinkedIn](https://linkedin.com/in/javier-ruiz-1871a3b2)
